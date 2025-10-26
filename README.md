@@ -1,6 +1,3 @@
-Here’s a draft README.md for your project resume‑builder by Vishal Singh (GitHub: Vishal7vz). Feel free to adjust wording, add badges/screenshots, and fill in any missing details as needed.
-
-⸻
 
 Resume-Builder
 
