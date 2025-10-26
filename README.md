@@ -48,15 +48,4 @@ Usage
 
 📂 License
 
-This project is open-source and available under the MIT License. Feel free to fork it, customise it, and build upon it.
-
-📬 Contact
-
-For questions, contributions or feedback:
-	•	GitHub: Vishal7vz
-	•	Email: (your email here)
-	•	Twitter / LinkedIn: (your profile links)
-
-⸻
-
-If you like, I can generate multiple template versions of the README (e.g., a detailed version, a minimal version) and include badges (build status, license) for you. Would you like that?
+This project is open-source and available under the MIT License. Feel free to fork it, customise it, and build 
