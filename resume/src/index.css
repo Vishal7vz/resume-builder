@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* App base */
+:root {
+  --radius: 0.75rem;
+}
+
+html, body, #root {
+  height: 100%;
+}
+
+/* Smooth fonts for clean white UI */
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Print-friendly adjustments */
+@media print {
+  @page { margin: 12mm; }
+}
+
+/* Animations */
+@keyframes float {
+  0% { transform: translateY(0) }
+  50% { transform: translateY(-12px) }
+  100% { transform: translateY(0) }
+}
+.anim-float { animation: float 14s ease-in-out infinite }
+
+@keyframes fade-in {
+  from { opacity: 0; transform: translateY(6px) }
+  to { opacity: 1; transform: translateY(0) }
+}
+.anim-fade-in { animation: fade-in .5s ease-out both }
